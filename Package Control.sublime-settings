@@ -1,0 +1,12 @@
+{
+	"auto_upgrade_last_run": 1352547118,
+	"installed_packages":
+	[
+		"CoffeeCompile",
+		"CoffeeScript",
+		"Emmet",
+		"Git",
+		"Jinja2",
+		"SublimeLinter"
+	]
+}
